@@ -14,7 +14,7 @@ In this month-long journey, we tackled the challenge faced by AtliQ Hardware in 
 - **Supply Chain View:** Assess Forecast Accuracy, Net Error, ABS Error by customer and product.
 - **Executive View:** Gain strategic insights into Market Share trends and revenue, featuring a Ribbon Chart for PC Market share trend.
 
-## Live Dashboard and Video Presentation
+## Live Dashboard
 
 - **Live Dashboard:** [Explore Here](https://www.novypro.com/project/business-insights-360-95)
 
